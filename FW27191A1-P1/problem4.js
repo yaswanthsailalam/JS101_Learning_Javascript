@@ -1,0 +1,21 @@
+var name = `𝕐𝔸𝕊𝕎𝔸ℕ𝕋ℍ`;
+var school = "AP School of Education";
+var grade = "2nd";
+var section = "B";
+var roll = 26;
+var science = 60;
+var maths = 75;
+var english = 89;
+
+console.log("*********************************");
+console.log("********** REPORT CARD **********");
+console.log("*********************************");
+console.log("Name -",name);
+console.log("School -",school);
+console.log("Grade -", grade);
+console.log("Section -",section);
+console.log("Roll -",roll);
+console.log("Science -",science);
+console.log("Math -",maths);
+console.log("English -",english);
+console.log("*********************************");
